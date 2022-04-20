@@ -751,6 +751,7 @@ return array(
     'WC_REST_Customer_Downloads_Controller' => $baseDir . '/includes/rest-api/Controllers/Version3/class-wc-rest-customer-downloads-controller.php',
     'WC_REST_Customer_Downloads_V1_Controller' => $baseDir . '/includes/rest-api/Controllers/Version1/class-wc-rest-customer-downloads-v1-controller.php',
     'WC_REST_Customer_Downloads_V2_Controller' => $baseDir . '/includes/rest-api/Controllers/Version2/class-wc-rest-customer-downloads-v2-controller.php',
+    'WC_REST_Carts_Controller' => $baseDir . '/includes/rest-api/Controllers/Version3/class-wc-rest-carts-controller.php',
     'WC_REST_Customers_Controller' => $baseDir . '/includes/rest-api/Controllers/Version3/class-wc-rest-customers-controller.php',
     'WC_REST_Customers_V1_Controller' => $baseDir . '/includes/rest-api/Controllers/Version1/class-wc-rest-customers-v1-controller.php',
     'WC_REST_Customers_V2_Controller' => $baseDir . '/includes/rest-api/Controllers/Version2/class-wc-rest-customers-v2-controller.php',

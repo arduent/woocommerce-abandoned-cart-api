@@ -3182,6 +3182,10 @@ return array(
 		'version' => '1.0.0.0',
 		'path'    => $baseDir . '/includes/rest-api/Controllers/Version3/class-wc-rest-customers-controller.php'
 	),
+        'WC_REST_Carts_Controller' => array(
+                'version' => '1.0.0.0',
+                'path'    => $baseDir . '/includes/rest-api/Controllers/Version3/class-wc-rest-carts-controller.php'
+        ),
 	'WC_REST_Report_Customers_Totals_Controller' => array(
 		'version' => '1.0.0.0',
 		'path'    => $baseDir . '/includes/rest-api/Controllers/Version3/class-wc-rest-report-customers-totals-controller.php'

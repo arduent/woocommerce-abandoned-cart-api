@@ -138,6 +138,7 @@ class Server {
 	 */
 	protected function get_v3_controllers() {
 		return array(
+			'carts'			   => 'WC_REST_Carts_Controller',
 			'coupons'                  => 'WC_REST_Coupons_Controller',
 			'customer-downloads'       => 'WC_REST_Customer_Downloads_Controller',
 			'customers'                => 'WC_REST_Customers_Controller',
